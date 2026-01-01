@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Hello World, tech enthusiast here! I'm all about coding, web dev, and innovation. Let's dive into the digital realm together! 🚀
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Hello World, tech enthusiast here! I'm all about coding, web dev, and innovation. Let's dive into the digital realm together!
 </h2>
 
 ## 📊 GitHub Stats
