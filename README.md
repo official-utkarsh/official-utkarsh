@@ -26,7 +26,7 @@
 
 ## 📫 Connect With Me
 <p align="left">
-    <a href="https://x.com/utk_codes" target="_blank">
+    <a href="https://x.com/utkarsh_sgh" target="_blank">
         <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
     <a href="mailto:utkarsh.works@outlook.com" target="_blank">
